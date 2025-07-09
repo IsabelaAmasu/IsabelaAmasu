@@ -1,8 +1,8 @@
 
 ---
 <p align="center">Sou uma estudante de tecnologia de 18 anos, cursando o 2° semestre de Análise e Desenvolvimento de Sistemas, entusiasta de <strong>UX/UI Design, desenvolvimento de software e programação</strong>.
-Apaixonada por <strong>arte e design</strong>, adoro transformar ideias em projetos criativos que combinam lógica e sensibilidade estética para construir experiências digitais envolventes.
-Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, com o objetivo de desenvolver soluções de alta qualidade que unam <strong>estética e tecnologia</strong>.
+   Apaixonada por <strong>arte e design</strong>, adoro transformar ideias em projetos criativos que combinam lógica e sensibilidade estética para construir experiências digitais envolventes.
+   Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, com o objetivo de desenvolver soluções de alta qualidade que unam <strong>estética e tecnologia</strong>.
 </p><br>
 
 <div>
