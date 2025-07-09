@@ -1,5 +1,5 @@
+# <p align="center">Oii, eu sou a Isabela! 😏</p>
 
----
 <p align="center">Sou uma estudante de tecnologia de 18 anos, cursando o 2° semestre de Análise e Desenvolvimento de Sistemas, entusiasta de <strong>UX/UI Design, desenvolvimento de software e programação</strong>.
    Apaixonada por <strong>arte e design</strong>, adoro transformar ideias em projetos criativos que combinam lógica e sensibilidade estética para construir experiências digitais envolventes.
    Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, com o objetivo de desenvolver soluções de alta qualidade que unam <strong>estética e tecnologia</strong>.
@@ -31,12 +31,10 @@
   <img align="center" alt="Isabela-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isabela-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isabela-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake.svg">
 </picture>
-
----
