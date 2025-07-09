@@ -1,9 +1,22 @@
 # Oii, eu sou a Isabela! 😏
 
-<div >
+
+
+<p align="center">Sou uma estudante de tecnologia de 18 anos, cursando o 2° semestre de Análise e Desenvolvimento de Sistemas, entusiasta de <strong>UX/UI Design, desenvolvimento de software e programação</strong>.
+Apaixonada por <strong>arte e design</strong>, adoro transformar ideias em projetos criativos que combinam lógica e sensibilidade estética para construir experiências digitais envolventes.
+Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, com o objetivo de desenvolver soluções de alta qualidade que unam <strong>estética e tecnologia</strong>.
+</p><br>
+
+<div>
    • 🧠 Desenvolvedora em formação. <br>
    • 💭 Muito interresada em UX/UI e front.<br>
    • 🌍 Sempre aprendendo coisas novas.
+</div><br>
+
+<div> 
+  <a href="https://www.instagram.com/boo_amasu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabelaamasu@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabelaamasu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
@@ -20,11 +33,7 @@
 </div>
 
 ---
-<div> 
-  <a href="https://www.instagram.com/boo_amasu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isabelaamasu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabelaamasu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake-dark.svg">
