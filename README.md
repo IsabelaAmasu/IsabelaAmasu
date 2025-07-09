@@ -5,13 +5,37 @@
 <p align="center">Sou uma estudante de tecnologia de 18 anos, cursando o 2° semestre de Análise e Desenvolvimento de Sistemas, entusiasta de <strong>UX/UI Design, desenvolvimento de software e programação</strong>.
 Apaixonada por <strong>arte e design</strong>, adoro transformar ideias em projetos criativos que combinam lógica e sensibilidade estética para construir experiências digitais envolventes.
 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, com o objetivo de desenvolver soluções de alta qualidade que unam <strong>estética e tecnologia</strong>.
-</p><br>
+</p>
+
+<table>
+  <tr>
+    <td>
+      <div>
+   • 🧠 Desenvolvedora em formação. <br>
+   • 💭 Muito interresada em UX/UI e front. <br>
+   • 🌍 Sempre aprendendo coisas novas. <br><br>
+         
+   <a href="https://www.instagram.com/boo_amasu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:isabelaamasu@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/isabelaamasu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      </div>
+    </td>
+    <td>
+      <img src="octocat_alternando_lento.gif" alt="octocat" width="220">
+    </td>
+  </tr>
+</table>
+
 
 <div>
    • 🧠 Desenvolvedora em formação. <br>
    • 💭 Muito interresada em UX/UI e front.<br>
    • 🌍 Sempre aprendendo coisas novas.
 </div><br>
+
+<p align="center">
+  <img src="octocat_alternando_lento.gif" alt="octocat" width="220">
+</p>
 
 <div> 
   <a href="https://www.instagram.com/boo_amasu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
