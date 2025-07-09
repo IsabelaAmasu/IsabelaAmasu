@@ -22,8 +22,8 @@
 <h1 align="center">GitHub Stats ✨</h1>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabelaAmasu&show_icons=true&theme=radical&border_radius=17" alt="IsabelaAmasu's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaAmasu&layout=compact&theme=radical&border_radius=17" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabelaAmasu&show_icons=true&theme=omni&border_radius=17" alt="IsabelaAmasu's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaAmasu&layout=compact&theme=omni&border_radius=17" alt="Top Langs"/>
 </div><br>
 
 <h1 align="center">Tech Stack 🚀</h1>
