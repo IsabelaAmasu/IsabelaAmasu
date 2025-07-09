@@ -17,14 +17,14 @@ Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidad
   <a href="https://www.linkedin.com/in/isabelaamasu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">GitHub Stats ✨</h1>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsabelaAmasu&show_icons=true&theme=radical&border_radius=17" alt="IsabelaAmasu's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaAmasu&layout=compact&theme=radical&border_radius=17" alt="Top Langs"/>
 </div><br>
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">Tech Stack 🚀</h1>
 <br>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Isabela-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,13 +33,10 @@ Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidad
   <img align="center" alt="Isabela-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
----
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsabelaAmasu/IsabelaAmasu/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p>
-  <img src="octocat_alternando_lento.gif" alt="octocat" width="220">
-</p>
+---
