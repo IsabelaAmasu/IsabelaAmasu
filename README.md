@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="banner.gif" alt="Banner animado" />
-</p>
+<div align="center">
+  <img src="github-header-banner.png">
+</div>
 
 <p align="center">
 Estudante de ADS 💻 | UX/UI • Programação • Design 🎨
