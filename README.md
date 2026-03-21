@@ -8,6 +8,8 @@
   <img src="github-header-banner.png">
 </div>
 
+<br> 
+
 <p align="center">
 Estudante de ADS 💻 | UX/UI • Programação • Design 🎨
 </p>
